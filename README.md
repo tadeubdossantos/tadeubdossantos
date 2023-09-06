@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo 👋
-Meu nome é Tadeu sou desenvolvedor PHP Full Stack e fique a vontade para ver meus repositórios.
+Meu nome é Tadeu sou desenvolvedor PHP Full Stack e fique a vontade para ver meus projetos.
 
 Neste repositório encontra-se alguns projetos simples que fiz por hobbie mesmo e outros desenvolvidos para aplicar os conhecimentos adquiridos em cursos das novas tecnologias que estou estudanto.
 
